@@ -1,0 +1,127 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  color: #3e4c4a;
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 560%;
+  color: #7B2869;
+  line-height: 2;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  color: #7B2869;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #C85C8E;
+}
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #222222;
+  border-bottom: none;
+  width: 5%;
+  margin: 50px auto 50px auto;
+}
+a {
+  font-family: "Montserrat", sans-serif;
+  margin: 10px ;
+  text-decoration: none;
+  
+}
+a:hover {
+  color: #7B2869;
+}
+.photo {
+  size: 150%;
+  border-radius: 200px;
+  color: #9D3C72;
+}
+.highlight {
+  font-weight: bold;
+}
+.topcontainer {
+  background-color: #f8d5f6;
+}
+.topcontainer p{
+  font-size: 2.5rem;
+  margin: 20px auto 0 auto;
+  color: #7B2869;
+}
+.skill {
+  width: 100px;
+  height: 100px;
+}
+.skill-row {
+  display: inline-block;
+}
+
+.contact-me p {
+  margin: 0px;
+}
+.middle-container {
+  background-color: #f8e0f2;
+  
+  height: 800px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.bottom-container {
+  padding-top: 30px;
+  background-color: #f4aee1;
+  margin: 0px;
+  color: #9D3C72;
+  height: 150px;
+}
+.bottom-container p{
+  margin: 0px;
+}
+
+.btn {
+  background: #f786e0;
+  background-image: -webkit-linear-gradient(top, #f786e0, #c250b1);
+  background-image: -moz-linear-gradient(top, #f786e0, #c250b1);
+  background-image: -ms-linear-gradient(top, #f786e0, #c250b1);
+  background-image: -o-linear-gradient(top, #f786e0, #c250b1);
+  background-image: linear-gradient(to bottom, #f786e0, #c250b1);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: "Montserrat", sans-serif;
+  color: #ffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ad1384;
+  text-decoration: none;
+}
+
+.top {
+  position: relative;
+  left: 250px;
+}
+.bottom {
+  display: block;
+  position: relative;
+  left: 350px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+
+
